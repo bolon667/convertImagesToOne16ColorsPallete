@@ -7,6 +7,12 @@ Python script, which combines palette of images. It's useful for SGDK, for examp
 2. Run **convertImagesToOne16BitPalette.py**
 3. Result will be in **imagesOut** folder
 
+## Installing dependisies
+
+From program folder, run this command in cmd
+
+`pip install -r requirements.txt`
+
 ## How it works
 
 1. Script combines all your images into one atlas.
