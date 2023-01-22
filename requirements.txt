@@ -1,0 +1,3 @@
+libimagequant
+pillow
+glob2
