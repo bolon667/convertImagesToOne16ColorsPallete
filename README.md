@@ -12,3 +12,11 @@ Python script, which combines palette of images. It's useful for SGDK, for examp
 1. Script combines all your images into one atlas.
 2. Reducing palette of atlas
 3. Cropping images from atlas to get images back.
+
+## Additionaly
+
+You also can use:
+
+- **convertImages.py** to reduce palette to 16 colors
+- **resizeImages.py** to change size of images (needs rewriting for your needs).
+- **createAnimation.py** to create spriteSheet from frames. You should give appropriate names to images, like 1.png, 2.png... and so on.
