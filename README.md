@@ -23,6 +23,7 @@ From program folder, run this command in cmd
 
 You also can use:
 
-- **convertImages.py** to reduce palette to 16 colors
+- **convertImages.py** to reduce palette to 16 colors and resize (pls rewrite script for your needs)
 - **resizeImages.py** to change size of images (needs rewriting for your needs).
 - **createAnimation.py** to create spriteSheet from frames. You should give appropriate names to images, like 1.png, 2.png... and so on.
+- **reducePaletteTo16Colors.py** to reduce palette to 16 colors
